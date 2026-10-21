@@ -1,2 +1,2 @@
-bla bla bla
-i hate ece and cse
+# this is my first git file
+i genuinely hate cse.
